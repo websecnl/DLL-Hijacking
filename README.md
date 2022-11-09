@@ -3,7 +3,7 @@ A demo of a vulnerable application to DLL Hijacking
 
 Writeup Availble at: https://websec.nl/blog
 
-Made by Zhassulan Zhussupov for WebSec B.V.
+Made by Zhassulan Zhussupov (@cocomelonc) for WebSec B.V.
 
 References:
 
