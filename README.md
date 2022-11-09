@@ -1,9 +1,9 @@
-# DLL-Hijacking
-A demo of a vulnerable application to DLL Hijacking
+# DLL-Hijacking-Assets
+Resources to assist in the process of a DLL Hijacking attack.
 
 Writeup Availble at: https://websec.nl/blog
 
-Made by Zhassulan Zhussupov (@cocomelonc) for WebSec B.V.
+Writeup & Code Author Zhassulan Zhussupov (@cocomelonc), Made for WebSec B.V.
 
 References:
 
