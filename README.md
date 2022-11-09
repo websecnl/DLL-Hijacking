@@ -5,4 +5,7 @@ Writeup Availble at: https://websec.nl/blog
 
 Made by Zhassulan Zhussupov for WebSec B.V.
 
-More awsome codes: https://github.com/zhzhussupovkz
+References:
+
+https://websec.nl/downloads
+https://github.com/zhzhussupovkz
